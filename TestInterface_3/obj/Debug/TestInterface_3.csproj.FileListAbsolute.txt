@@ -1,0 +1,7 @@
+D:\C#\TestInterface_3\TestInterface_3\bin\Debug\TestInterface_3.exe.config
+D:\C#\TestInterface_3\TestInterface_3\bin\Debug\TestInterface_3.exe
+D:\C#\TestInterface_3\TestInterface_3\bin\Debug\TestInterface_3.pdb
+D:\C#\TestInterface_3\TestInterface_3\obj\Debug\TestInterface_3.csprojAssemblyReference.cache
+D:\C#\TestInterface_3\TestInterface_3\obj\Debug\TestInterface_3.csproj.CoreCompileInputs.cache
+D:\C#\TestInterface_3\TestInterface_3\obj\Debug\TestInterface_3.exe
+D:\C#\TestInterface_3\TestInterface_3\obj\Debug\TestInterface_3.pdb
